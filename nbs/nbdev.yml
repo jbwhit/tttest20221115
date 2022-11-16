@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tttest20221115"
+  site-url: "https://jbwhit.github.io/tttest20221115"
+  description: "wine ratings"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/tttest20221115"
